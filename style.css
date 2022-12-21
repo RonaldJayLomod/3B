@@ -139,3 +139,22 @@ body{
         margin-right: 100px;
         width:550px;
 }
+.loms {
+        padding: 110px;
+        text-align: center;
+        margin-top: 2%;
+        color: #fff;
+        font-family: 'Zaio', sans-serif;
+}
+.loms p{
+        margin-bottom: 24px;
+        height: 15px;
+}
+
+.img img{
+       margin-top: 40px;
+       border-radius: 240px;
+       float: right;
+       margin-right: 100px;
+       width:550px;
+}
